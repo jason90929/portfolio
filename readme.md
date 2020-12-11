@@ -30,7 +30,7 @@ https://cibot-dev-adgeek.web.app/
 
 Personal website (2018/12)
 
-https://jason-tseng.firebaseapp.com/
+https://jason-tseng.web.app/
 
 https://github.com/jason90929/jason-tseng-website-2019
 

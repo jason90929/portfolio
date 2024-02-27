@@ -1,7 +1,5 @@
 SmartEngage Platform v3 (2020/07 ~ 2021/06) at adGeek/Cyntelli products
 
-(Not provided)
-
 * A dashboard for B2B
 
 ![SEP](https://s3-ap-northeast-1.amazonaws.com/jason-tseng.com/assets/images/portfolio/SEP.jpg)

@@ -1,4 +1,4 @@
-SmartEngage Platform v3 (2020/07 ~ present) at adGeek/Cyntelli products
+SmartEngage Platform v3 (2020/07 ~ 2021/06) at adGeek/Cyntelli products
 
 (Not provided)
 
@@ -18,7 +18,7 @@ https://ilnk-dev.web.app/
 
 ---
 
-CI-BOT (2019/06 ~ present) at adGeek/Cyntelli products
+CI-BOT (2019/06 ~ 2021/06) at adGeek/Cyntelli products
 
 https://cibot-dev-adgeek.web.app/
 
@@ -62,7 +62,7 @@ https://github.com/jason90929/cobinhood-assignment-jason-tseng
 
 ---
 
-Multi-listing service (2018/12 ~ present) at iStaging products
+Multi-listing service (2018/12 ~ 2019/06) at iStaging products
 
 * React, Redux, React hooks
 
@@ -70,7 +70,7 @@ Multi-listing service (2018/12 ~ present) at iStaging products
 
 ---
 
-TourRing (2018/06 ~ present) at iStaging products
+TourRing (2018/06 ~ 2019/06) at iStaging products
 
 https://tourring.istaging.com/ab5744d6-4fd6-4ce8-b1fd-dc4bc1a5ff7d
 
@@ -95,7 +95,7 @@ http://3d-dollhouse.avosapps.us/scene/62cb3510-6708-4f62-94c3-f9936db7e20b
 
 ---
 
-Live Tour (VR Viewer) (2017/05 ~ present) at iStaging products
+Live Tour (VR Viewer) (2017/05 ~ 2019/06) at iStaging products
 
 https://livetour.istaging.com/ab5744d6-4fd6-4ce8-b1fd-dc4bc1a5ff7d
 
@@ -107,7 +107,7 @@ https://livetour.istaging.com/ab5744d6-4fd6-4ce8-b1fd-dc4bc1a5ff7d
 
 ---
 
-VR Editor (2017/05 ~ present) at iStaging products
+VR Editor (2017/05 ~ 2019/06) at iStaging products
 
 https://vreditor.istaging.com/
 
@@ -119,7 +119,7 @@ https://vreditor.istaging.com/
 
 ---
 
-Portal — (2016/12 ~ present) at iStaging products
+Portal — (2016/12 ~ 2019/06) at iStaging products
 
 https://portal.istaging.com
 
